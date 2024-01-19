@@ -1,6 +1,10 @@
 [package]
 name = "brainfreak"
+description = "A simple compiler for the Brainf*ck programming language"
 version = "0.1.0-alpha"
+license = "MIT"
+homepage = "https://github.com/pzipper/brainfreak"
+repository = "https://github.com/pzipper/brainfreak"
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
